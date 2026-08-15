@@ -26,7 +26,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/Mtcmetac",
-  "VITE_SEO_SITE_NAME": "",
+  "VITE_SEO_SITE_NAME": "Metac",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-metac-dda3ae67/",
   "VITE_SEO_SITE_LANGUAGE": "en",
