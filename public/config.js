@@ -38,7 +38,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"MTCA\",\"mode\":\"dark\",\"isDefault\":true}]",
+  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"MTCA\",\"mode\":\"dark\",\"isDefault\":true},{\"id\":\"511826c3-6201-470d-ad21-be4cb31dbe4a\",\"displayName\":\"New theme\",\"mode\":\"dark\",\"cssVars\":{\"--oui-color-link\":\"64 224 208\",\"--oui-color-danger\":\"220 20 60\",\"--oui-color-primary\":\"64 224 208\",\"--oui-color-success\":\"0 255 127\",\"--oui-color-link-light\":\"128 239 236\",\"--oui-color-danger-light\":\"255 99 71\",\"--oui-color-trading-loss\":\"220 20 60\",\"--oui-color-danger-darken\":\"180 0 40\",\"--oui-color-primary-light\":\"128 239 236\",\"--oui-color-success-light\":\"102 255 178\",\"--oui-gradient-danger-end\":\"220 20 60\",\"--oui-color-primary-darken\":\"0 150 180\",\"--oui-color-success-darken\":\"0 200 100\",\"--oui-color-trading-profit\":\"0 255 127\",\"--oui-gradient-primary-end\":\"64 224 208\",\"--oui-gradient-success-end\":\"0 255 127\",\"--oui-gradient-danger-start\":\"150 0 30\",\"--oui-gradient-primary-start\":\"0 100 150\",\"--oui-gradient-success-start\":\"0 150 100\"}}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
   "VITE_SYMBOL_LIST": "",
