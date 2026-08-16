@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_NAME": "Metac",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
   "VITE_HAS_PRIMARY_LOGO": "true",
-  "VITE_HAS_SECONDARY_LOGO": "false",
+  "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Markets,Campaigns,Portfolio,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
